@@ -1,4 +1,4 @@
-CFLAGS = -std=c++11 -O3 -march=native
+CFLAGS = -std=c++11 -O3 -mtune=apple-m1
 CC = g++
 OBJDIR = obj
 BUILDIR = build
