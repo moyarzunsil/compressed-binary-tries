@@ -4,6 +4,7 @@
 #include <vector>
 #include <mutex>
 #include <iostream>
+#include "pthreads_affinity_mac.hpp"
 
 #ifndef THREADS_BY_CORE
 #define THREADS_BY_CORE 1
